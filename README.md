@@ -1,2 +1,2 @@
-# lossless_image_compression
-Lossless Image compression using huffman coding
+# lossless_text_compression
+Lossless text compression using huffman coding
